@@ -1,1 +1,2 @@
 This is my new file for git fetch practice.
+This is the second line in file from dev branch.
